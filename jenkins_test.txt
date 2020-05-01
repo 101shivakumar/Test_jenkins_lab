@@ -1,3 +1,4 @@
+<body bgcolor='aqua'>
 This is my first test file to test and understand Jenkins functionality.
 
 Thanks to Vimal sir for explaining this concenpt.
